@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1f21,50:4a4a4a,100:6d8196&height=200&section=header&text=Andrew%20Sameh&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=62&descSize=16" width="100%" alt="Andrew Sameh header" />
-
 <a href="https://github.com/AndrewSameh7">
   <img src="https://avatars.githubusercontent.com/u/229541708?v=4" width="115" height="115" style="border-radius:50%;border:3px solid #6366f1;padding:2px;" alt="Andrew Sameh" />
 </a>
